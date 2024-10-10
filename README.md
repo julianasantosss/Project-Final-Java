@@ -19,4 +19,3 @@ System that allows to create geometric figures (circles, rectangles, triangles) 
 - Java 8+
 - IDE (IntelliJ, Eclipse)
 
-Translated with DeepL.com (free version)
